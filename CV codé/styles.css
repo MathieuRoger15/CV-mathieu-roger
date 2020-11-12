@@ -1,0 +1,148 @@
+.titre {
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+.lieu {
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+.date {
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+.text {
+	font-size: 15px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+h1 {
+	font-size: 50px;
+}
+#h1blue {
+	color: rgb(0,200,200);
+}
+#h1yellow {
+	color: rgb(250,250,0);
+}
+#h1red {
+	color: rgb(250,100,180);
+}
+
+.megabox {
+	display: flex;
+	flex-direction: row;
+}
+.bigbox0 {
+	width: 50%;
+	height: 100%;
+}
+.bigbox {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.pbox1 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+}
+.pbox2 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+}
+.pbox3 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+}
+.pbox4 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+}
+
+.mbox4 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.mbox5 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.mbox6 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.megabox2 {
+	display: flex;
+	flex-direction: row;
+}
+.bigbox3 {
+	width: 67%;
+	height: 100%;
+}
+.bigbox4 {
+	width: 33%;
+	height: 100%;
+}
+
+.mbox8 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.mbox9 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.mbox10 {
+	width: 100%;
+	height: 10%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.text1 {
+	width: 30%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.text2 {
+	width: 40%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+
